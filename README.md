@@ -42,9 +42,19 @@ pip install -r requirements.txt
 ---
 
 ## 🎥 Demonstration
-See the Spiral Analytics Assistant in action:
-[Watch the Case Study Demonstration Video](YOUR_DEMO_VIDEO_LINK_HERE)
+Watch the full case study showcase, where we test the system across 7 diverse datasets. 
 
+[📺 Watch the Full Case Study Showcase on YouTube](https://youtu.be/Ls-Z6QHjKnE?si=O6IuObf1GCpR_97T)
+
+**Video Timeline:**
+- **00:00** - Introduction & System Overview
+- **00:04** - Drone Logistics Network (Synthetic Data)
+- **00:32** - FAANG Finance (Time-series Analysis)
+- **01:18** - Lifestyle & Health Risk Prediction
+- **02:36** - McDonald's Menu 
+- **03:25** - Pokemon Dataset
+- **04:21** - Titanic Survival 
+- **05:31** - IBM HR Analytics 
 ---
 
 ## 📂 Project Structure
