@@ -1,7 +1,5 @@
 # Spiral Analytics Assistant: Immersive AR Data Discovery System
 
-![Project Banner](link_to_your_demo_gif_or_image_here)
-
 "Spiral Analytics Assistant" is an end-to-end Immersive Analytics platform that bridges the gap between raw data complexity and intuitive human-computer interaction. By leveraging an autonomous AI decision-maker (Gemini 2.5 Pro), the system automates data preprocessing, correlation analysis, and chart selection, delivering interactive 3D visualizations directly into the user's spatial environment via Augmented Reality (AR).
 
 ---
@@ -66,12 +64,5 @@ We validated the system using 8 diverse datasets. Detailed findings are document
 
 ---
 
-## 🛡️ License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📧 Contact
-For any inquiries or academic collaboration, please contact **Özlem Tay** via [YOUR_EMAIL_OR_LINKEDIN].
 
 
