@@ -34,9 +34,7 @@ cd Server
 
 # Install dependencies
 pip install -r requirements.txt
-
-'''
-
+```
 ## 🛠️ Client Setup (Unity/C#)
 1. Open the `/Client` folder in **Unity Hub** (Recommended version: 2022.3 LTS or later).
 2. Ensure the **AR Foundation** and **XR Interaction Toolkit** packages are installed in your project.
@@ -76,5 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 For any inquiries or academic collaboration, please contact **Özlem Tay** via [YOUR_EMAIL_OR_LINKEDIN].
 
-# Run the server
-uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+
