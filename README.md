@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ## 🎥 Demonstration
 Watch the full case study showcase, where we test the system across 7 diverse datasets. 
 
-[📺 Watch the Full Case Study Showcase on YouTube](https://youtu.be/Ls-Z6QHjKnE?si=O6IuObf1GCpR_97T)
+[📺 Watch the Full Case Study Showcase on YouTube](https://youtu.be/trgpN7NwnNA?si=tiZISs6uods56LwU)
 
 **Video Timeline:**
 - **00:00** - Introduction & System Overview
