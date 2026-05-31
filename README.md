@@ -60,7 +60,7 @@ Watch the full case study showcase, where we test the system across 7 diverse da
 ## 📂 Project Structure
 * `/Server`: FastAPI backend scripts and Gemini AI integration.
 * `/Client`: Unity project files, including `DynamicARManager.cs`, `ARAxisController.cs`, and AR interaction logic.
-* `/Data`: Sample datasets used for case studies (CSV/XLSX).
+* `/data`: Sample datasets used for case studies (CSV/XLSX).
 
 ---
 
